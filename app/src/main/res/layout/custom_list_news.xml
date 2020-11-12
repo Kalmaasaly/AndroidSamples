@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="110dp"
+    android:padding="8dp"
+    android:id="@+id/custom_list_news"
+    android:background="@color/colorBackground"
+    >
+
+
+    <ImageButton
+        android:background="#F44336"
+        android:id="@+id/profile_image"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="8dp" />
+
+
+    <TextView
+        android:id="@+id/editor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/profile_image"
+        android:layout_toRightOf="@+id/profile_image"
+
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/publishedDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editor"
+        android:layout_toRightOf="@+id/profile_image"
+
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/headline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/publishedDate"
+        android:layout_marginTop="0dp"
+        android:layout_toRightOf="@+id/profile_image" />
+
+
+    <TextView
+        android:id="@+id/linkDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_below="@id/headline"
+        android:layout_toRightOf="@+id/profile_image"
+        android:textColor="@color/colorLink"
+        android:textSize="10sp" />
+
+
+
+
+</RelativeLayout>

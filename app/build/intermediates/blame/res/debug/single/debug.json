@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mapicon.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-mdpi\\mapicon.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mapicon.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-hdpi\\mapicon.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_news.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-xhdpi\\news.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_list_news.xml.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\layout\\custom_list_news.xml"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_newshighlighted.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-mdpi\\newshighlighted.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_news.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-hdpi\\news.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rounded_corner.xml.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-mdpi\\rounded_corner.xml"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_newshighlighted.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-hdpi\\newshighlighted.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mapiconhighlighted.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-ldpi\\mapiconhighlighted.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mapiconhighlighted.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-xxxhdpi\\mapiconhighlighted.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_maiconhighlighted.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-mdpi\\maiconhighlighted.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mapicon.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-xxxhdpi\\mapicon.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_news.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-xxhdpi\\news.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_newshighlighted.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-xxhdpi\\newshighlighted.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_news.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-ldpi\\news.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pin.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-xhdpi\\pin.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mapiconhighlighted.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-xhdpi\\mapiconhighlighted.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mapicon.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-ldpi\\mapicon.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_news.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-mdpi\\news.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_pin.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-ldpi\\pin.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_newshighlighted.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-xxxhdpi\\newshighlighted.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mapicon.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-xxhdpi\\mapicon.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_pin.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-xxhdpi\\pin.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mapiconhighlighted.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-xxhdpi\\mapiconhighlighted.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pin.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-hdpi\\pin.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_pin.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-xxxhdpi\\pin.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_map.xml.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_news.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-xxxhdpi\\news.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mapiconhighlighted.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-hdpi\\mapiconhighlighted.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mapicon.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-xhdpi\\mapicon.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_news.xml.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_newshighlighted.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-xhdpi\\newshighlighted.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_newshighlighted.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-ldpi\\newshighlighted.png"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\ProjectJakarta9\\AndroidSamples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pin.png.flat",
+        "source": "D:\\ProjectJakarta9\\AndroidSamples\\app\\src\\main\\res\\drawable-mdpi\\pin.png"
+    }
+]
