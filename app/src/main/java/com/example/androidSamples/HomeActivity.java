@@ -32,6 +32,9 @@ public class HomeActivity extends AppCompatActivity {
                     case  R.id.pin:
                         fragment=new MapFragment();
                         break;
+                    case  R.id.toast:
+                        fragment=new ToastFragment();
+                        break;
                 }
                 getSupportFragmentManager().beginTransaction().replace(R.id.container,fragment).commit();
                 return false;
