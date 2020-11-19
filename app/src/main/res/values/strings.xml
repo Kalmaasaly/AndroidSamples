@@ -4,9 +4,6 @@
 
     <string name="news">news</string>
     <string name="pin">pin</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_news_fragment">hello_news_fragment</string>
-
     <string name="hello_map_fragment">hello_map_fragment</string>
     <string name="maps_api_key">[MAP_API_KEY]</string>
 </resources>
